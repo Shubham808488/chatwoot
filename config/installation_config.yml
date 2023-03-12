@@ -69,6 +69,6 @@
 - name: CHATWOOT_CLOUD_PLANS
   value:
 - name: DEPLOYMENT_ENV
-  value: self-hosted
+  value: enterprise
 - name: CSML_EDITOR_HOST
   value:
