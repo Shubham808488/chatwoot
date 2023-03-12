@@ -67,7 +67,7 @@
   value:
   locked: false
 - name: CHATWOOT_CLOUD_PLANS
-  value: Startups
+  value: hacker
 - name: DEPLOYMENT_ENV
   value: Enterprise
 - name: CSML_EDITOR_HOST
